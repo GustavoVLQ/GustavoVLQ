@@ -4,14 +4,6 @@
 
 Olá! Sou Gustavo Velasque, um entusiasta da tecnologia apaixonado por programação e design web. Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP, estou ansioso para iniciar minha carreira profissional na área.
 
-Meu foco principal é criar experiências digitais memoráveis e funcionais. Tenho habilidades sólidas em desenvolvimento front-end e back-end, combinadas com um olhar meticuloso para o design. Meu objetivo é não apenas resolver problemas complexos de forma eficiente, mas também garantir que cada produto que eu desenvolvo seja visualmente atraente e intuitivo para o usuário.
-
-Estou constantemente buscando aprender e crescer no mundo da tecnologia. Meu compromisso com a excelência e minha paixão por inovação me impulsionam a buscar novos desafios e a encontrar soluções criativas.
-
-Estou animado para contribuir com projetos empolgantes e fazer parte de equipes dinâmicas que compartilham meu entusiasmo pela criação de soluções digitais impactantes.
-
-Vamos colaborar e transformar ideias em realidade juntos!
-
 <p align="left">
     <a href="https://github.com/GustavoVLQ?tab=repositories&sort=stargazers">
         <img 
